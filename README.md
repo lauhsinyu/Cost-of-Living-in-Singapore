@@ -5,8 +5,8 @@ This is my first documented data analytics project. I aim to explore how prices 
 How have prices for major categories changed over time in Singapore?
 
 ### Project Aims:
-Perform basic data cleaning using pandas and numpy.
-Perform basic exploratory data analysis.
-Analyse changes in major categories using weighted averages and suggest possible causes.
-Provide visualisations to demonstrate the above findings.
+1. Perform basic data cleaning using pandas and numpy.
+2. Perform basic exploratory data analysis.
+3. Analyse changes in major categories using weighted averages and suggest possible causes.
+4. Provide visualisations to demonstrate the above findings.
 
